@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "green",
+    "package_name": "com.example.green",
+    "sha256_cert_fingerprints": [
+      "b1:3f:ca:d5:e2:a8:68:94:1d:3d:c9:4d:a2:fa:e9:ed:03:9b:e0:35:a8:8c:7e:fb:8e:bb:ff:a1:58:3a:83:d2"
+    ]
+  }
+}]
